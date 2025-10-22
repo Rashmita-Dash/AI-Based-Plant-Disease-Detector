@@ -1,0 +1,7 @@
+
+#  pdd
+streamlit>=1.24
+tensorflow>=2.12
+Pillow
+numpy
+openai>=1.0.0
